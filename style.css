@@ -12,9 +12,10 @@
 
 
 body{
-background-image: url('https://cdn.onebauer.media/one/empire-tmdb/films/10681/images/2nFyTvssbtJMLC6eyYwwZ88gALD.jpg?quality=50&width=1800&ratio=16-9&resizeStyle=aspectfill&format=jpg');
+background-image: url('https://p1.pxfuel.com/preview/238/824/48/stars-galaxy-sky-night.jpg');
 background-repeat: no-repeat;
 background-attachment: fixed;
+background-size: cover; 
 }
 
 /* Navigation Bar */
@@ -54,7 +55,7 @@ background-attachment: fixed;
 
 .heading {
     margin: 0 auto;
-    margin-top: 350px;
+    margin-top: 300px;
     text-align: center;
     max-width: 500px;
     line-height: 1.3;
@@ -71,7 +72,7 @@ background-attachment: fixed;
 
 .paragraph {
     margin: 0 auto;
-    margin-top: 50px;
+    margin-top: 10px;
     text-align: center;
     max-width: 750px;
     line-height: 1.5;
@@ -128,6 +129,7 @@ position: absolute;
 margin-left: 825px;
 top: 100px;
     height: 600px;
+    width:900px;
  opacity: 0;
  animation: text-animation;
   animation-duration: 3s;
@@ -170,16 +172,18 @@ img {
 
 .wallespace{
     position: absolute;
-    margin-left: 800px;
-    margin-top: 150px;
-    height: 280px;
+    margin-left: 850px;
+    margin-top: 80px;
+    height: 350px;
+
 }
 
 .walleplant{
     position: absolute;
     margin-left: -100px;
-    height: 280px;
-    margin-top: 150px;
+    height: 350px;
+    margin-top: 80px;
+    width: 700px;
 }
 
 .hreview{
