@@ -78,7 +78,7 @@ background-size: cover;
     line-height: 1.5;
     font-size: 50px;
     font-family: 'Space Mono', monospace;
-    color:lightsteelblue;
+    color:white;
     opacity: 0;
     animation: text-animation;
     animation-duration: 3s;
@@ -129,7 +129,7 @@ position: absolute;
 margin-left: 825px;
 top: 100px;
     height: 600px;
-    width:300px;
+    width:700px;
  opacity: 0;
  animation: text-animation;
   animation-duration: 3s;
@@ -172,18 +172,19 @@ img {
 
 .wallespace{
     position: absolute;
-    margin-left: 850px;
+    margin-left: 750px;
     margin-top: 80px;
-    height: 350px;
+    height: 250px;
+    width:500px ;
 
 }
 
 .walleplant{
     position: absolute;
-    margin-left: -100px;
-    height: 350px;
+    margin-left:10px;
+    height: 250px;
     margin-top: 80px;
-    width: 700px;
+    width:500px ;
 }
 
 .hreview{
