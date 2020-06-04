@@ -14,6 +14,7 @@
 
 ::-webkit-scrollbar {
 width: 1px;
+    display: none;
 }
 ::-webkit-scrollbar-thumb {
 background:white;
@@ -210,6 +211,10 @@ img {
     font-family:'Anton', sans-serif;
     text-align: center;
     font-size: 40px;
+}
+
+.Thoughts{
+    background-image: url("https://www.publicdomainpictures.net/pictures/30000/velka/blue-background-1332236994lwF.jpg");
 }
 
 
