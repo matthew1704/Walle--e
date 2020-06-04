@@ -11,6 +11,24 @@
 }
 
 
+
+::-webkit-scrollbar {
+width: 1px;
+}
+::-webkit-scrollbar-thumb {
+background:white;
+}
+::-webkit-scrollbar-track {
+background:black;
+border-left: 0px solid black ;
+}
+::-webkit-resizer {
+background: white;
+}
+
+
+
+
 body{
 background-image: url('https://p1.pxfuel.com/preview/238/824/48/stars-galaxy-sky-night.jpg');
 background-repeat: no-repeat;
