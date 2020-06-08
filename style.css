@@ -12,23 +12,6 @@
 
 
 
-::-webkit-scrollbar {
-width: 1px;
-    display: none;
-}
-::-webkit-scrollbar-thumb {
-background:white;
-}
-::-webkit-scrollbar-track {
-background:black;
-border-left: 0px solid black ;
-}
-::-webkit-resizer {
-background: white;
-}
-
-
-
 
 body{
 background-image: url('https://p1.pxfuel.com/preview/238/824/48/stars-galaxy-sky-night.jpg');
@@ -191,18 +174,18 @@ img {
 .wallespace{
     position: absolute;
     margin-left: 10%;
-    margin-top: 80px;
-    height: 105%;
-    width:40% ;
+    margin-top: 5%;
+    height: 70%;
+    width:35% ;
 
 }
 
 .walleplant{
     position: absolute;
-    margin-left:-45%;
-    height: 100%;
-    margin-top: 80px;
-    width:40% ;
+    margin-left:-30%;
+    height: 70%;
+    margin-top: 5%;
+    width:35% ;
 }
 
 .hreview{
