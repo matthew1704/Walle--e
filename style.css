@@ -27,7 +27,7 @@ background-size: cover;
   background-color: rgba(0,0,0, 0.8);
   backdrop-filter: blur(20px);
   overflow: hidden;
-  border-radius:5px;
+  border-radius:0%;
   position: fixed; /* Set the navbar to fixed position */
   top: 0; /* Position the navbar at the bottom of the page */
   width: 100%; /* Full width */
@@ -38,9 +38,9 @@ background-size: cover;
   float: left;
   color: white;
   text-align: center;
-  padding:14px 16px;
+  padding:1% 1%;
   text-decoration: none;
-  font-size: 17px;
+  font-size: 100%;
 }
 
 /* color of links on hover */
